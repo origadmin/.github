@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Welcome to OrigAdmin, your go-to solution for efficient backend management and streamlined administrative tasks. Our mission is to provide a robust, scalable, and user-friendly platform for managing complex systems with ease.
+Welcome to `OrigAdmin`, your go-to solution for efficient backend management and streamlined administrative tasks. Our mission is to provide a robust, scalable, and user-friendly platform for managing complex systems with ease.
 
 ### 🌟 What is OrigAdmin?
 
-OrigAdmin is a comprehensive management suite designed to simplify backend operations for web applications. It consists of several powerful components tailored to meet various needs:
+`OrigAdmin` is a comprehensive management suite designed to simplify backend operations for web applications. It consists of several powerful components tailored to meet various needs:
 
 - **[OrigAdmin WebUI](https://github.com/origadmin/webui)**: This is the graphical interface that allows users to interact with the system in a user-friendly manner. It provides a visual way to manage data, configurations, and workflows without needing to dive into code.
 
