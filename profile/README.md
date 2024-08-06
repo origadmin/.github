@@ -18,8 +18,8 @@ OrigAdmin is a comprehensive management suite designed to simplify backend opera
 
 We value community involvement and welcome contributions from developers and enthusiasts alike. To get started:
 1. Visit our [Contributing Guidelines](CONTRIBUTING.md) to understand how you can help.
-2. Check out our [Issues](https://github.com/origadmin/issues) for areas that need attention.
-3. Join our [Discussions](https://github.com/origadmin/discussions) to share ideas and connect with other contributors.
+2. Check out our [Issues](https://github.com/origadmin/admin/issues)) for areas that need attention.
+3. Join our [Discussions](https://github.com/orgs/origadmin/discussions) to share ideas and connect with other contributors.
 
 ### 📚 Useful Resources
 
