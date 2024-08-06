@@ -25,7 +25,7 @@ We value community involvement and welcome contributions from developers and ent
 
 - **Documentation**: Dive into our [docs](https://github.com/origadmin/docs) for detailed information about using and extending OrigAdmin.
 - **API Reference**: Explore our [API documentation](https://github.com/origadmin/api-docs) for developers.
-- **Community Forum**: Connect with other users and contributors on our [forum](https://github.com/origadmin/community).
+- **Community Forum**: Connect with other users and contributors on our [Discussions](https://github.com/orgs/origadmin/discussions).
 
 ### 🍳 Fun Facts
 
